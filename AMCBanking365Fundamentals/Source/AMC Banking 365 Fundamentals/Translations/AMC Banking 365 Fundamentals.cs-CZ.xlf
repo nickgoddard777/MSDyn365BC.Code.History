@@ -185,13 +185,13 @@
         <trans-unit id="Codeunit 2413088747 - NamedType 2779639592" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Processing line no. #1######.</source>
           <target state="translated">Zpracování řádku č. #1######.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">#1=Line number</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Exp. CT Mapping - NamedType ProgressMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 1051898237 - NamedType 2779639592" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Pre-processing line no. #1######.</source>
           <target state="translated">Předzpracování řádku č. #1######.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">#1=Line number</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Exp. CT Pre-Map - NamedType ProgressMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 3605141263 - NamedType 4134082808" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
@@ -251,7 +251,7 @@
         <trans-unit id="Codeunit 3857426880 - NamedType 2779639592" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Preparing line number #1#######</source>
           <target state="translated">Připravuji číslo řádku #1#######</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">#1 = Linenumber</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Import Bank STMT - NamedType ProgressMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 1428720056" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
@@ -281,7 +281,7 @@
         <trans-unit id="Codeunit 1873957797 - NamedType 4082076936" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account %1 does not have a bank account number.\\Do you want to continue?</source>
           <target state="translated">Bankovní účet %1 nemá číslo bankovní účtu.\\Chcete pokračovat?</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">%1 = Bank Account Code</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType MissingBankAccNoQst</note>
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 742056434" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
@@ -922,12 +922,6 @@
           <source>AMC Banking Export CreditTransfer</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort AMC Bank Export CreditTransfer - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 1620763456 - Control 1281447598 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies your bank's data format as required by the AMC Banking when you import and export bank files.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 2292249509</note>
         </trans-unit>
         <trans-unit id="TableExtension 329099011 - Field 3981858850 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank Name</source>

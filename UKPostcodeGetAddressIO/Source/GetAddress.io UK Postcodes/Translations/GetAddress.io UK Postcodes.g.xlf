@@ -23,11 +23,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Postcode GetAddress.io Config - Field Primary Key - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Codeunit 1779888028 - NamedType 2342509135" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The list of addresses has been created.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Postcode Service GetAddress.io - NamedType AddressListCreatedMsg</note>
-        </trans-unit>
         <trans-unit id="Codeunit 1779888028 - NamedType 2035405389" size-unit="char" translate="yes" xml:space="preserve">
           <source>The postcode is not valid.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -72,11 +67,6 @@
           <source>You have made more requests than your allowed limit.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Postcode Service GetAddress.io - NamedType TooManyRequestsErr</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 1779888028 - NamedType 3782767637" size-unit="char" translate="yes" xml:space="preserve">
-          <source>UKPostCodeTelemetryCategoryTok</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Postcode Service GetAddress.io - NamedType UKPostCodeTok</note>
         </trans-unit>
         <trans-unit id="Codeunit 1779888028 - NamedType 947487269" size-unit="char" translate="yes" xml:space="preserve">
           <source>You must choose the getAddress.io service.</source>

@@ -21,6 +21,12 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table AMC Bank Banks - Field Bank Name - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 3203079048 - Field 2393092549 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ownreference</source>
+          <target state="translated">Ownreference</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AMC Bank Banks - Field Bank Ownreference - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 3203079048 - Field 284764054 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Country/Region Code</source>
           <target state="translated">Country/Region Code</target>
@@ -171,11 +177,23 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Assisted Mgt. - NamedType DontShowThisAgainMsg</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3725545329 - NamedType 3313543012" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>To setup AMC Banking, you need to enable it.</source>
+          <target state="translated">To setup AMC Banking, you need to enable it.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Assisted Mgt. - NamedType EnableSetupNeededNotificationTxt</note>
+        </trans-unit>
         <trans-unit id="Codeunit 3725545329 - NamedType 82900180" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The Web Service Setup User Name (%1) does not match the License number (%2) or the (%3)</source>
           <target state="translated">The Web Service Setup User Name (%1) does not match the Licence number (%2) or the (%3)</target>
           <note from="Developer" annotates="general" priority="2">%1=UserName, %2=License numnber, %3=DemoUser</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Assisted Mgt. - NamedType NotCorrectUserLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 3725545329 - NamedType 658909975" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please run the Assisted setup action to complete the AMC Banking setup.</source>
+          <target state="translated">Please run the Assisted setup action to complete the AMC Banking setup.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Assisted Mgt. - NamedType PleaseRunAssistedSetupNotificationActionTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 3725545329 - NamedType 1098773093" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The web service returned an error message:\</source>
@@ -225,12 +243,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Exp. CT Hndl - NamedType DownloadFromStreamErr</note>
         </trans-unit>
-        <trans-unit id="Codeunit 3646414981 - NamedType 540628993" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>.txt</source>
-          <target state="translated">.txt</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Exp. CT Hndl - NamedType FileExtTxt</note>
-        </trans-unit>
         <trans-unit id="Codeunit 3646414981 - NamedType 4134082808" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The AMC Banking has found one or more errors.\\For each line to be exported, resolve the errors that are displayed in the FactBox.\\Choose an error to see more information.</source>
           <target state="translated">The AMC Banking has found one or more errors.\\For each line to be exported, resolve the errors that are displayed in the FactBox.\\Choose an error to see more information.</target>
@@ -264,13 +276,13 @@
         <trans-unit id="Codeunit 2413088747 - NamedType 2779639592" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Processing line no. #1######.</source>
           <target state="translated">Processing line no. #1######.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">#1=Line number</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Exp. CT Mapping - NamedType ProgressMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 1051898237 - NamedType 2779639592" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Pre-processing line no. #1######.</source>
           <target state="translated">Pre-processing line no. #1######.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">#1=Line number</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Exp. CT Pre-Map - NamedType ProgressMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 3605141263 - NamedType 4134082808" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
@@ -330,7 +342,7 @@
         <trans-unit id="Codeunit 3857426880 - NamedType 2779639592" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Preparing line number #1#######</source>
           <target state="translated">Preparing line number #1#######</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">#1 = Linenumber</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Import Bank STMT - NamedType ProgressMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 1428720056" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
@@ -360,7 +372,7 @@
         <trans-unit id="Codeunit 1873957797 - NamedType 4082076936" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account %1 does not have a bank account number.\\Do you want to continue?</source>
           <target state="translated">Bank account %1 does not have a bank account number.\\Do you want to continue?</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">%1 = Bank Account Code</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType MissingBankAccNoQst</note>
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 742056434" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
@@ -381,6 +393,78 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType MultipleStmtErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 1633887332 - NamedType 1428720056" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bank statement that you are importing contains transactions in currencies other than the %1 %2 of bank account %3.</source>
+          <target state="translated">The bank statement that you are importing contains transactions in currencies other than the %1 %2 of bank account %3.</target>
+          <note from="Developer" annotates="general" priority="2">%1 %2 = Currency Code EUR; %3 = Bank Account No.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType BankAccCurrErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1633887332 - NamedType 1975081983" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank account %1 does not have the bank account number %2, as specified in the bank statement file.\\Do you want to continue?</source>
+          <target state="translated">Bank account %1 does not have the bank account number %2, as specified in the bank statement file.\\Do you want to continue?</target>
+          <note from="Developer" annotates="general" priority="2">%1=Value; %2 = Bank account no.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType BankAccMismatchQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1633887332 - NamedType 2242781076" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The bank account number was not found in the data to be imported.</source>
+          <target state="translated">The bank account number was not found in the data to be imported.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MissingBankAccNoInDataErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1633887332 - NamedType 4082076936" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank account %1 does not have a bank account number.\\Do you want to continue?</source>
+          <target state="translated">Bank account %1 does not have a bank account number.\\Do you want to continue?</target>
+          <note from="Developer" annotates="general" priority="2">%1 = Bank Account No</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MissingBankAccNoQst</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1633887332 - NamedType 742056434" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The closing balance was not found in the data to be imported.</source>
+          <target state="translated">The closing balance was not found in the data to be imported.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MissingClosingBalInDataMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1633887332 - NamedType 1106260476" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The statement date was not found in the data to be imported.</source>
+          <target state="translated">The statement date was not found in the data to be imported.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MissingStmtDateInDataMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1633887332 - NamedType 2692357613" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The file that you are trying to import contains more than one bank statement.</source>
+          <target state="translated">The file that you are trying to import contains more than one bank statement.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MultipleStmtErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2780017665 - NamedType 2779639592" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Preparing line number #1#######</source>
+          <target state="translated">Preparing line number #1#######</target>
+          <note from="Developer" annotates="general" priority="2">#1 = Linenumber</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Process Statement - NamedType ProgressMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1658105548 - NamedType 2400363345" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The AMC Banking 365 Fundamentals feature is not enabled. You can enable the feature on the AMC Banking Setup page by turning on the Enabled toggle, or by using the assisted setup guide.</source>
+          <target state="translated">The AMC Banking 365 Fundamentals feature is not enabled. You can enable the feature on the AMC Banking Setup page by turning on the Enabled toggle, or by using the assisted setup guide.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank REST Request Mgt. - NamedType FeatureConsentErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1658105548 - NamedType 2671141422" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please wait while the server is processing your request.\This may take several minutes.</source>
+          <target state="translated">Please wait while the server is processing your request.\This may take several minutes.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank REST Request Mgt. - NamedType ProcessingDialogMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1658105548 - NamedType 1098773093" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The web service returned an error message:\</source>
+          <target state="translated">The web service returned an error message:\</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank REST Request Mgt. - NamedType TryLoadErrorLbl</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1658105548 - NamedType 4203108968" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status code: %1</source>
+          <target state="translated">Status code: %1</target>
+          <note from="Developer" annotates="general" priority="2">%1=Http Statuscode</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank REST Request Mgt. - NamedType WebLoadErrorLbl</note>
+        </trans-unit>
         <trans-unit id="Codeunit 4228874151 - NamedType 3754422060" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The expected data was not received from the web service.</source>
           <target state="translated">The expected data was not received from the web service.</target>
@@ -393,11 +477,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Service Request Mgt. - NamedType FeatureConsentErr</note>
         </trans-unit>
-        <trans-unit id="Codeunit 4228874151 - NamedType 3019894490" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="Codeunit 4228874151 - NamedType 320118130" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please wait while the server is processing your request.\This may take several minutes.</source>
           <target state="translated">Please wait while the server is processing your request.\This may take several minutes.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Service Request Mgt. - NamedType ProcessingWindowMsg</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Service Request Mgt. - NamedType ProcessWindowDialogMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 4228874151 - NamedType 1098773093" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The web service returned an error message:\</source>
@@ -476,6 +560,12 @@
           <target state="translated">Credit Transfer Msg. ID</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Banking Mgt. - NamedType CreditTransMsgNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2568490811 - NamedType 540628993" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>.txt</source>
+          <target state="translated">.txt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Banking Mgt. - NamedType FileExtTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 2568490811 - NamedType 2591510851" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The user name and password must be filled in %1 page.</source>
@@ -1307,6 +1397,94 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Pmt. Types - Control Description - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 3893939787 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMC Banking Signup webservice</source>
+          <target state="translated">AMC Banking Signup webservice</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 2982482756 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Information for the webservice</source>
+          <target state="translated">Company Information for the webservice</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control CompanyGroup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 3133801257 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the company that you want to use for registration on the Webservice.</source>
+          <target state="translated">Specifies the company that you want to use for registration on the Webservice.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control Company - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 3133801257 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Use information from company</source>
+          <target state="translated">Use information from company</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control Company - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 470245246 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Solution information</source>
+          <target state="translated">Solution information</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control SolutionLicense - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 724800509 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the admin E-mail of Webservice signup.</source>
+          <target state="translated">Specifies the admin Email of Webservice signup.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control AdminEmail - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 724800509 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Admin signup E-mail</source>
+          <target state="translated">Admin signup Email</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control AdminEmail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 2108608587 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the admin user name of the Webservice signup.</source>
+          <target state="translated">Specifies the admin user name of the Webservice signup.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control AdminUserName - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 2108608587 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Admin signup user</source>
+          <target state="translated">Admin signup user</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control AdminUserName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 2182313082 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control LicenseGrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 1958465003 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License number of Business Central for AMC Banking</source>
+          <target state="translated">Licence number of Business Central for AMC Banking</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control BCLicenseNumber - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 1958465003 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>License</source>
+          <target state="translated">Licence</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control BCLicenseNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 3046671720 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control SolutionGrp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 1857133763 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies which solution of AMC Banking is purchased.</source>
+          <target state="translated">Specifies which solution of AMC Banking is purchased.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control Solution - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3893939787 - Control 1857133763 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Solution</source>
+          <target state="translated">Solution</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control Solution - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1056736409 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>AMC Banking 365 Webservice Log</source>
           <target state="translated">AMC Banking 365 Webservice Log</target>
@@ -1442,7 +1620,7 @@
         <trans-unit id="Page 3704095706 - NamedType 421965939" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Do you want to copy the License %1 to the User name field?</source>
           <target state="translated">Do you want to copy the Licence %1 to the User name field?</target>
-          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Developer" annotates="general" priority="2">%1=BC License Number</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Banking Setup - NamedType CopyBCLicenseQst</note>
         </trans-unit>
         <trans-unit id="Page 3704095706 - NamedType 3838141333" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
@@ -1617,12 +1795,39 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort AMC Bank Export CreditTransfer - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 1620763456 - Control 1281447598 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+        <trans-unit id="XmlPort 1184337646 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMC Banking Export CreditTransfer</source>
+          <target state="translated">AMC Banking Export CreditTransfer</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort AMC Bank Export CT - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 225112926 - Control 1281447598 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies your bank's data format as required by the AMC Banking when you import and export bank files.</source>
           <target state="translated">Specifies your bank's data format as required by the AMC Banking when you import and export bank files.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2292249509</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 225112926 - Control 2292565801 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies your bank file name incl. extension. (use %1 in filename to get DateTime as part of filename - if field is blank a Bankname.txt will be used as default filename).</source>
+          <target state="translated">Specifies your bank file name incl. extension. (use %1 in filename to get DateTime as part of filename - if field is blank a Bankname.txt will be used as default filename).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 2292249509</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1620763456 - Action 4027789718 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calls the AMC Bank Myaccount Page to be able to setup further informations for the bank accounts. External webpage will be opened by this button.</source>
+          <target state="translated">Calls the AMC Bank Myaccount Page to be able to setup further informations for the bank accounts. External webpage will be opened by this button.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 3408061871</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1620763456 - Action 4027789718 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMC Bank Page</source>
+          <target state="translated">AMC Bank Page</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 3408061871</note>
         </trans-unit>
         <trans-unit id="PageExtension 3493802159 - Control 2640682147 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>XTL Journal associated with the Credit Transfer Register</source>
@@ -1638,12 +1843,33 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 2805771090</note>
         </trans-unit>
+        <trans-unit id="PageExtension 3939322197 - Control 2318147276 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the name of a column in the imported bank file.</source>
+          <target state="translated">Specifies the name of a column in the imported bank file.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 3237541689</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3939322197 - Control 2318147276 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name xPath</source>
+          <target state="translated">Name xPath</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 3237541689</note>
+        </trans-unit>
         <trans-unit id="TableExtension 777852729 - Field 1078695595 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Status</source>
           <target state="translated">Status</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Table 2763045331</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 329099011 - Field 8056628 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank file Name</source>
+          <target state="translated">Bank file Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Table 1682139193</note>
         </trans-unit>
         <trans-unit id="TableExtension 329099011 - Field 3981858850 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank Name</source>
@@ -1680,12 +1906,49 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Table 2452330737</note>
         </trans-unit>
+        <trans-unit id="TableExtension 1194456860 - Field 2516959542 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recipient Bank Account Currency</source>
+          <target state="translated">Recipient Bank Account Currency</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Table 658627162</note>
+        </trans-unit>
         <trans-unit id="TableExtension 1672724984 - Field 3875559386 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank Pmt. Type</source>
           <target state="translated">Bank Pmt. Type</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Table 3566004263</note>
+        </trans-unit>
+        <trans-unit id="Enum 946689240 - EnumValue 3858383409 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Journal Description</source>
+          <target state="translated">Journal Description</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AMCBankOwnreference - EnumValue Journal Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 946689240 - EnumValue 2889102768 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recipient Name</source>
+          <target state="translated">Recipient Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AMCBankOwnreference - EnumValue Recipient Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 946689240 - EnumValue 3741870728 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recipient No.</source>
+          <target state="translated">Recipient No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AMCBankOwnreference - EnumValue Recipient No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 946689240 - EnumValue 1570125936 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Recipient No. &amp; Name</source>
+          <target state="translated">Recipient No. &amp; Name</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AMCBankOwnreference - EnumValue Recipient No./Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 946689240 - EnumValue 3045810516 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Transaction unique reference</source>
+          <target state="translated">Transaction unique reference</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum AMCBankOwnreference - EnumValue Transaction unique ref. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 2195179419 - EnumValue 3826689261 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Failed</source>
