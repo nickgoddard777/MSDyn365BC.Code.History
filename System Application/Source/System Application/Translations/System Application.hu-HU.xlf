@@ -328,21 +328,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Cue Setup - Field Field No. - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Table 2488342448 - Field 3850109114 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source></source>
-          <note from="Developer" annotates="general" priority="2">The Style to use if the cue's value is above Threshold 2</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Cue Setup - Field High Range Style - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 2488342448 - Field 2051953352 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source></source>
-          <note from="Developer" annotates="general" priority="2">The Style to use if the cue's value is below Threshold 1</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Cue Setup - Field Low Range Style - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Table 2488342448 - Field 1593335407 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source></source>
-          <note from="Developer" annotates="general" priority="2">The Style to use if the cue's value is between Threshold 1 and Threshold 2</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Table Cue Setup - Field Middle Range Style - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Table 2488342448 - Field 1380338462 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Personalized</source>
           <note from="Developer" annotates="general" priority="2"></note>

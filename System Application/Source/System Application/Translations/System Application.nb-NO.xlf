@@ -694,17 +694,17 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table Cue Setup - Field Field No. - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2488342448 - Field 3850109114 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source></source>
+          <source>High Range Style</source>
           <note from="Developer" annotates="general" priority="2">The Style to use if the cue's value is above Threshold 2</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Cue Setup - Field High Range Style - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2488342448 - Field 2051953352 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source></source>
+          <source>Low Range Style</source>
           <note from="Developer" annotates="general" priority="2">The Style to use if the cue's value is below Threshold 1</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Cue Setup - Field Low Range Style - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 2488342448 - Field 1593335407 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source></source>
+          <source>Middle Range Style</source>
           <note from="Developer" annotates="general" priority="2">The Style to use if the cue's value is between Threshold 1 and Threshold 2</note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Cue Setup - Field Middle Range Style - Property Caption</note>
         </trans-unit>
@@ -12908,6 +12908,36 @@
           <target state="translated">Hoppet over</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum Checklist Status - EnumValue Skipped - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3510216895 - EnumValue 2792882736 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ambiguous</source>
+          <target state="translated">Tvetydig</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Cues And KPIs Style - EnumValue Ambiguous - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3510216895 - EnumValue 1842024162 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Favorable</source>
+          <target state="translated">Fordelaktig</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Cues And KPIs Style - EnumValue Favorable - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3510216895 - EnumValue 3371220206 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>None</source>
+          <target state="translated">Ingen</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Cues And KPIs Style - EnumValue None - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3510216895 - EnumValue 2463722134 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subordinate</source>
+          <target state="translated">Underordnet</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Cues And KPIs Style - EnumValue Subordinate - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 3510216895 - EnumValue 2997326431 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unfavorable</source>
+          <target state="translated">Ufordelaktig</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Cues And KPIs Style - EnumValue Unfavorable - Property Caption</note>
         </trans-unit>
         <trans-unit id="Enum 4060300230 - EnumValue 2229726827 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Primary Source</source>
