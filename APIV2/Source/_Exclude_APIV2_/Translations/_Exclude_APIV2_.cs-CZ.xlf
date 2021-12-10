@@ -1088,6 +1088,7 @@
         </trans-unit>
         <trans-unit id="Page 1243228631 - NamedType 1932180400" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>You cannot get new users while a task is already in progress.</source>
+          <target state="translated">Nelze získat nové uživatele, pokud již probíhá úloha.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Aut. Users - NamedType AlreadyScheduledCreateUsersJobLbl</note>
         </trans-unit>
@@ -3794,6 +3795,7 @@
         </trans-unit>
         <trans-unit id="Page 257135376 - Control 2776482850 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Tax Percent</source>
+          <target state="translated">Procento daně</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Purch Receipt Lines - Control taxPercent - Property Caption</note>
         </trans-unit>
@@ -4445,6 +4447,7 @@
         </trans-unit>
         <trans-unit id="Page 1779564587 - Control 1406037800 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Account Id</source>
+          <target state="translated">Id účtu</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Purchase Order Lines - Control accountId - Property Caption</note>
         </trans-unit>
@@ -4529,6 +4532,7 @@
         </trans-unit>
         <trans-unit id="Page 1779564587 - Control 3104767193 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Item Variant Id</source>
+          <target state="translated">ID varianty zboží</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Purchase Order Lines - Control itemVariantId - Property Caption</note>
         </trans-unit>
@@ -4598,6 +4602,7 @@
         </trans-unit>
         <trans-unit id="Page 1779564587 - Control 2776482850 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Tax Percent</source>
+          <target state="translated">Procento daně</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Purchase Order Lines - Control taxPercent - Property Caption</note>
         </trans-unit>
@@ -4652,6 +4657,11 @@
           <note from="Developer" annotates="general" priority="2">pricesIncludeTax is a field name and should not be translated.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Purchase Orders - NamedType CannotEnablePricesIncludeTaxErr</note>
         </trans-unit>
+        <trans-unit id="Page 825103897 - NamedType 983217553" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The order cannot be found.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Purchase Orders - NamedType CannotFindOrderErr</note>
+        </trans-unit>
         <trans-unit id="Page 825103897 - NamedType 259424556" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The buy-from vendor cannot be found.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -4700,6 +4710,7 @@
         </trans-unit>
         <trans-unit id="Page 825103897 - Control 8604086 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Attachments</source>
+          <target state="translated">Přílohy</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Purchase Orders - Control attachments - Property Caption</note>
         </trans-unit>
@@ -7890,6 +7901,7 @@
         </trans-unit>
         <trans-unit id="Page 2511651920 - Control 2776482850 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Tax Percent</source>
+          <target state="translated">Procento daně</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Sales Shipment Lines - Control taxPercent - Property Caption</note>
         </trans-unit>
@@ -8949,6 +8961,7 @@
         </trans-unit>
         <trans-unit id="Page 2680707570 - Control 1463933576 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Picture</source>
+          <target state="translated">Obrázek</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page APIV2 - Vendors - Control picture - Property Caption</note>
         </trans-unit>
