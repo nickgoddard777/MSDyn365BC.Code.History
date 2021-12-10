@@ -1852,7 +1852,7 @@
         </trans-unit>
         <trans-unit id="PageExtension 3939322197 - Control 2318147276 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Name xPath</source>
-          <target state="translated">Navn på xbane</target>
+          <target state="translated">Navn på xPath</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 3237541689</note>
