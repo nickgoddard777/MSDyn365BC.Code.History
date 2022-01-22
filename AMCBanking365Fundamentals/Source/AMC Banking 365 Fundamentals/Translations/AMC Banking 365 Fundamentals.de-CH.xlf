@@ -191,7 +191,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 3725545329 - NamedType 658909975" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please run the Assisted setup action to complete the AMC Banking setup.</source>
-          <target state="translated">Führen Sie die Aktion „Unterstützte Einrichtung“ aus, um die AMC Banking-Einrichtung abzuschließen.</target>
+          <target state="translated">Führen Sie die Aktion „Unterstützte Einrichtung“ aus, um die AMC Banking-Einrichtung abzuschliessen.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Assisted Mgt. - NamedType PleaseRunAssistedSetupNotificationActionTxt</note>
         </trans-unit>
