@@ -1405,19 +1405,19 @@
         </trans-unit>
         <trans-unit id="Page 3893939787 - Control 2982482756 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Company Information for the webservice</source>
-          <target state="translated">Informations compagnie pour le service web</target>
+          <target state="translated">Informations société pour le service web</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control CompanyGroup - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 3893939787 - Control 3133801257 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the company that you want to use for registration on the Webservice.</source>
-          <target state="translated">Spécifie la compagnie que vous souhaitez utiliser pour l’enregistrement sur le service web.</target>
+          <target state="translated">Spécifie la société que vous souhaitez utiliser pour l’enregistrement sur le service web.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control Company - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3893939787 - Control 3133801257 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Use information from company</source>
-          <target state="translated">Utiliser les informations sur la compagnie</target>
+          <target state="translated">Utiliser les informations sur la société</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control Company - Property Caption</note>
         </trans-unit>

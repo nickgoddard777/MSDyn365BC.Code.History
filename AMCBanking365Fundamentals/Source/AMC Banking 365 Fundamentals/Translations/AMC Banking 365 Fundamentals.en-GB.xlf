@@ -1429,13 +1429,13 @@
         </trans-unit>
         <trans-unit id="Page 3893939787 - Control 724800509 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the admin E-mail of Webservice signup.</source>
-          <target state="translated">Specifies the admin Email of Webservice signup.</target>
+          <target state="translated">Specifies the admin E-mail of Webservice signup.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control AdminEmail - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 3893939787 - Control 724800509 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Admin signup E-mail</source>
-          <target state="translated">Admin signup Email</target>
+          <target state="translated">Admin signup E-mail</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control AdminEmail - Property Caption</note>
         </trans-unit>
