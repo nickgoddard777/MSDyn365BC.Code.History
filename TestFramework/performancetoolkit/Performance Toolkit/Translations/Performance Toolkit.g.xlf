@@ -373,6 +373,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit BCPT Start Tests - NamedType NothingToRunErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 1784523263 - NamedType 1563256021" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test suite with %1 %2 already exists.</source>
+          <note from="Developer" annotates="general" priority="2">%1 - field caption, %2 - field value</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BCPT Test Suite - NamedType TestSuiteAlreadyExistsErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1784523263 - NamedType 808379172" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test suite line with %1 %2 and %3 %4 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2">%1 - field caption, %2 - field value, %3 - field caption, %4 - field value</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BCPT Test Suite - NamedType TestSuiteLineNotFoundErr</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1784523263 - NamedType 670790746" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test suite with %1 %2 does not exist.</source>
+          <note from="Developer" annotates="general" priority="2">%1 - field caption, %2 - field value</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit BCPT Test Suite - NamedType TestSuiteNotFoundErr</note>
+        </trans-unit>
         <trans-unit id="Page 2352947468 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>BCPT CommandLine Runner</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -673,6 +688,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entries - Control EndTime - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 1184719117 - Control 3837516702 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entries - Control EndTime - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1184719117 - Control 883711285 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the Entry No. of the BCPT.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -712,6 +732,11 @@
           <source>Specifies the start time of the BCPT scenario.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entries - Control StartTime - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1184719117 - Control 530928583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entries - Control StartTime - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1184719117 - Control 513339096 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the status of the iteration.</source>
@@ -787,6 +812,101 @@
           <source>Show sessions running at the same time as this</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entries - Action ShowSimultaneous - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BCPT Logs Entry API</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Property 3446740159" size-unit="char" translate="yes" xml:space="preserve">
+          <source>bcptLogEntry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Property EntityCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Property 631549417" size-unit="char" translate="yes" xml:space="preserve">
+          <source>bcptLogEntry</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Property EntitySetCaption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 3993731044 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BCPT Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control bcptCode - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 3345260546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Codeunit ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control codeunitID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 4088109112 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Codeunit Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control codeunitName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 3937971704 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Duration (ms)</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control durationMin - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 523229054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control endTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 2190624577 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Entry No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control entryNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 2686962215 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 928535615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control lineNumber - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 1123684309 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Message</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control message - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 3024429683 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of SQL Statements</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control numberOfSQLStmts - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 879649671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Operation</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control operation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 1891695285 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Session No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control sessionId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 43755559 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Time</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control startTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 998393528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 3549181302 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tag</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control tag - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3016543735 - Control 942171326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Version No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entry API - Control version - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1221634945 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Lookup Codeunits</source>
@@ -979,7 +1099,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Setup List - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 494180900 - Property 3863440606" size-unit="char" translate="yes" xml:space="preserve">
-          <source>BCPT,Benchmark,Perf,Toolkit</source>
+          <source>BCPT,Benchmark,Perf,Performance,Toolkit</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Setup List - Property AdditionalSearchTerms</note>
         </trans-unit>

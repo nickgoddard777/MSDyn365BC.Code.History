@@ -148,11 +148,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Test Method Line - Field Test Suite - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Codeunit 3805611020 - NamedType 3491025716" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Updating Tests: \#1#\#2#</source>
-          <note from="Developer" annotates="general" priority="2">1 = Object being processed, 2 = Progress</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Test Suite Mgt. - NamedType DialogUpdatingTestsMsg</note>
-        </trans-unit>
         <trans-unit id="Codeunit 3805611020 - NamedType 1402129586" size-unit="char" translate="yes" xml:space="preserve">
           <source>No test runner is selected.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -163,10 +158,30 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Suites - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 134090330 - Control 3461834954 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the description of the test suite.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Suites - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 134090330 - Control 1600162533 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number fo failures.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Suites - Control Failures - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 134090330 - Control 2961552353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the name of the test suite.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Suites - Control Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 134090330 - Control 663496373 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of tests not executed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Suites - Control Tests not Executed - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 134090330 - Control 2885114547 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of tests to execute.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Suites - Control Tests to Execute - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1579170981 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>AL Test Tool</source>
@@ -198,6 +213,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control Error Message - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1579170981 - Control 697060706 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specified the line type.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control LineType - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 1579170981 - Control 697060706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Line Type</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -213,15 +233,30 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control Name - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1579170981 - Control 472338107 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the tests passed, failed or were skipped.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control Result - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 1579170981 - Control 472338107 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Result</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control Result - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1579170981 - Control 3851712227 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies whether the tests should be executed.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control Run - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 1579170981 - Control 3851712227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Run</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control Run - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1579170981 - Control 886819023 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID of the test codeunit.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control TestCodeunit - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1579170981 - Control 886819023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Codeunit ID</source>
@@ -438,6 +473,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control Result - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 3851712227 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies wether the tests should run.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control Run - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 1018362353 - Control 3851712227 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Run</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -453,10 +493,20 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control StackTrace - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 530928583 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the time the test started.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control StartTime - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 1018362353 - Control 530928583 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Start Time</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control StartTime - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 886819023 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID the test codeunit.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control TestCodeunit - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1018362353 - Control 886819023 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Codeunit ID</source>
@@ -523,15 +573,30 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control TestRunnerCodeunitId - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1018362353 - Action 562684735 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear the test results.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Action ClearTestResults - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 1018362353 - Action 562684735 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Clear Test R&amp;esults</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Action ClearTestResults - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1018362353 - Action 2740126548 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Runs the next test.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Action RunNextTest - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 1018362353 - Action 2740126548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Run N&amp;ext Test</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Action RunNextTest - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Action 772403727 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Runs the selected tests.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Action RunSelectedTests - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 1018362353 - Action 772403727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Run Se&amp;lected Tests</source>
@@ -543,15 +608,40 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Select TestRunner - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2957074450 - Control 3711240756 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Object ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Select TestRunner - Control Object ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2957074450 - Control 1418569422 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Object Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Select TestRunner - Control Object Name - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 3642842519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Select Tests</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Select Tests - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 3642842519 - Control 3711240756 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Object ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Select Tests - Control Object ID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3642842519 - Control 1418569422 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Object Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Select Tests - Control Object Name - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 625957419 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Select Tests By Range</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Select Tests By Range - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 625957419 - Control 1024059636 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the selection filter.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Select Tests By Range - Control Selection Filter - Property ToolTip</note>
         </trans-unit>
         <trans-unit id="Page 625957419 - Control 1024059636 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Selection Filter</source>

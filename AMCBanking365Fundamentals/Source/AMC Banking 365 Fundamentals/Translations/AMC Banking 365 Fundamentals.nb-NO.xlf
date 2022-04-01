@@ -1968,6 +1968,24 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Enum AMCBankWebLogStatus - EnumValue Warning - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PermissionSet 362460516 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMC Banking - Edit</source>
+          <target state="translated">AMC Banking – rediger</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet AMC Banking - Edit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1925059026 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMC Banking - Read</source>
+          <target state="translated">AMC Banking – les</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet AMC Banking - Read - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 1617750238 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AMC Banking- Objects</source>
+          <target state="translated">AMC Banking – objekter</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet AMC Banking- Objects - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>

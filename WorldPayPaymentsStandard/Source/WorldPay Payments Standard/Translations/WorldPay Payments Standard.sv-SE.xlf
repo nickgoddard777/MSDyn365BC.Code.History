@@ -471,6 +471,12 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MS - WorldPay Std. Settings - Control WorldPay Information - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2493693963 - Control 1807660456 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specify the Account</source>
+          <target state="translated">Ange kontot</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MS - WorldPay Std. Settings - Control AccountID - Property ToolTip</note>
+        </trans-unit>
         <trans-unit id="Page 2493693963 - Control 1807660456 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>WorldPay Email</source>
           <target state="translated">E-post till WorldPay</target>
@@ -560,6 +566,24 @@
           <target state="translated">Återställ till standard</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MS - WorldPay Std. Template - Action ResetToDefault - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 75541845 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WorldPayPaymentsStandard - Edit</source>
+          <target state="translated">WorldPayPaymentsStandard – Redigera</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet WorldPay - Edit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 3408419283 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WorldPayPaymentsStandard - Objects</source>
+          <target state="translated">WorldPayPaymentsStandard – Objekt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet WorldPay - Objects - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 651061999 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WorldPayPaymentsStandard - Read</source>
+          <target state="translated">WorldPayPaymentsStandard – Läs</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet WorldPay - Read - Property Caption</note>
         </trans-unit>
       </group>
     </body>

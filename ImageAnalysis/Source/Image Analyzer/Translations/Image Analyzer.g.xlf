@@ -498,6 +498,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension MS - Image Analyzer Setup - Field Image-Based Attribute Recognition Enabled - Property Caption</note>
         </trans-unit>
+        <trans-unit id="PermissionSet 4132997248 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image Analyzer - Edit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet ImageAnalysis - Edit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 66993882 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image Analyzer - Objects</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet ImageAnalysis - Objects - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PermissionSet 2161558262 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Image Analyzer - Read</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PermissionSet ImageAnalysis - Read - Property Caption</note>
+        </trans-unit>
       </group>
     </body>
   </file>
