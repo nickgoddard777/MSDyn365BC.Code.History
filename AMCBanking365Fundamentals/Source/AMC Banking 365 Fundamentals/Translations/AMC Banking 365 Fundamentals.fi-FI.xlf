@@ -353,7 +353,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 1975081983" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account %1 does not have the bank account number %2, as specified in the bank statement file.\\Do you want to continue?</source>
-          <target state="translated">Pankkitilillä %1 ei ole samaa kuin pankkitilin numeroa %2, joka on määritetty pankkitilitiedostossa.\\Haluatko jatkaa?</target>
+          <target state="translated">Pankkitilillä %1 ei ole samaa tilinumeroa %2 kuin joka on määritetty pankkitilitiedostossa.\\Haluatko jatkaa?</target>
           <note from="Developer" annotates="general" priority="2">%1=Value; %2 = Bank account no.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType BankAccMismatchQst</note>
         </trans-unit>
@@ -371,7 +371,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 4082076936" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account %1 does not have a bank account number.\\Do you want to continue?</source>
-          <target state="translated">Pankkitilillä %1 ei ole pankkitilinumeroa.\\Haluatko jatkaa?</target>
+          <target state="translated">Pankkitilillä %1 ei ole tilinumeroa.\\Haluatko jatkaa?</target>
           <note from="Developer" annotates="general" priority="2">%1 = Bank Account Code</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType MissingBankAccNoQst</note>
         </trans-unit>
@@ -389,7 +389,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 2692357613" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The file that you are trying to import contains more than one bank statement.</source>
-          <target state="translated">Tiedostossa, jota yrität käyttää, on enemmän kuin yksi tiliote.</target>
+          <target state="translated">Tiedostossa, jota yrität tuoda, on enemmän kuin yksi tiliote.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType MultipleStmtErr</note>
         </trans-unit>

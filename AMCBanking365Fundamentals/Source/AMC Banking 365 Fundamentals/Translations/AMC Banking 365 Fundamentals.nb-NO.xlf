@@ -1791,7 +1791,7 @@
         </trans-unit>
         <trans-unit id="XmlPort 417263901 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>AMC Banking Export CreditTransfer</source>
-          <target state="translated">Eksporter kredittoverføring for AMC Banking Service</target>
+          <target state="translated">Eksporter kredittoverføring for AMC Banking</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort AMC Bank Export CreditTransfer - Property Caption</note>
         </trans-unit>

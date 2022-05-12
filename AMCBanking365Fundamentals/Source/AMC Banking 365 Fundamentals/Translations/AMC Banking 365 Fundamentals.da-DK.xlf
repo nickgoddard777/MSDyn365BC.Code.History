@@ -395,13 +395,13 @@
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 1428720056" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The bank statement that you are importing contains transactions in currencies other than the %1 %2 of bank account %3.</source>
-          <target state="translated">Det bankkontoudtog, som du indlæser, indeholder transaktioner i andre valutaer end %1 %2 af bankkonto %3.</target>
+          <target state="translated">Det bankkontoudtog, du er ved at importere, indeholder transaktioner i andre valutaer end %1 %2 på bankkonto %3.</target>
           <note from="Developer" annotates="general" priority="2">%1 %2 = Currency Code EUR; %3 = Bank Account No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType BankAccCurrErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 1975081983" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account %1 does not have the bank account number %2, as specified in the bank statement file.\\Do you want to continue?</source>
-          <target state="translated">Bankkontoen %1 har ikke bankkontonummeret %2, som angivet i bankkontoudtogsfilen.\\Vil du fortsætte?</target>
+          <target state="translated">Bankkontoen %1 har ikke det bankkontonummer %2, som er angivet i bankkontoudtogsfilen.\\Vil du fortsætte?</target>
           <note from="Developer" annotates="general" priority="2">%1=Value; %2 = Bank account no.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType BankAccMismatchQst</note>
         </trans-unit>
@@ -419,7 +419,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 742056434" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The closing balance was not found in the data to be imported.</source>
-          <target state="translated">Slutsaldoen blev ikke fundet i de data, der skal indlæses.</target>
+          <target state="translated">Ultimosaldoen blev ikke fundet i de data, der skal indlæses.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MissingClosingBalInDataMsg</note>
         </trans-unit>
@@ -431,13 +431,13 @@
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 2692357613" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The file that you are trying to import contains more than one bank statement.</source>
-          <target state="translated">Den fil, du forsøger at indlæse, indeholder mere end ét bankkontoudtog.</target>
+          <target state="translated">Den fil, du prøver at indlæse, indeholder flere bankkontoudtog.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MultipleStmtErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 2780017665 - NamedType 2779639592" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Preparing line number #1#######</source>
-          <target state="translated">Klargør linjenummer #1#######</target>
+          <target state="translated">Forbereder linjenummer #1#######</target>
           <note from="Developer" annotates="general" priority="2">#1 = Linenumber</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Process Statement - NamedType ProgressMsg</note>
         </trans-unit>
@@ -1654,7 +1654,7 @@
         </trans-unit>
         <trans-unit id="Page 3704095706 - Control 1958465003 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>License number of Business Central for AMC Banking</source>
-          <target state="translated">Licensnummer til Business Central for AMC Banking</target>
+          <target state="translated">Licensnummer til Business Central til AMC Banking</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Banking Setup - Control BCLicenseNumber - Property ToolTip</note>
         </trans-unit>
@@ -1791,7 +1791,7 @@
         </trans-unit>
         <trans-unit id="XmlPort 417263901 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>AMC Banking Export CreditTransfer</source>
-          <target state="translated">AMC Banking-eksportkreditoverførsel</target>
+          <target state="translated">Eksport af kreditoverførsel fra AMC Banking</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort AMC Bank Export CreditTransfer - Property Caption</note>
         </trans-unit>

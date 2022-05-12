@@ -281,7 +281,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1051898237 - NamedType 2779639592" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Pre-processing line no. #1######.</source>
-          <target state="translated">Zeilennummer #1###### wird vorab verarbeitet...</target>
+          <target state="translated">Zeilennummer #1###### wird vorab verarbeitet.</target>
           <note from="Developer" annotates="general" priority="2">#1=Line number</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Exp. CT Pre-Map - NamedType ProgressMsg</note>
         </trans-unit>
@@ -1791,7 +1791,7 @@
         </trans-unit>
         <trans-unit id="XmlPort 417263901 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>AMC Banking Export CreditTransfer</source>
-          <target state="translated">AMC Banking-Export - CreditTransfer</target>
+          <target state="translated">AMC Banking-Export – Überweisung</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort AMC Bank Export CreditTransfer - Property Caption</note>
         </trans-unit>

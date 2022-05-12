@@ -365,7 +365,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 2242781076" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The bank account number was not found in the data to be imported.</source>
-          <target state="translated">Het bankrekeningnummer kon niet worden gevonden in de gegevens die moeten worden geïmporteerd.</target>
+          <target state="translated">Het bankrekeningnummer is niet gevonden in de gegevens die moeten worden geïmporteerd.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType MissingBankAccNoInDataErr</note>
         </trans-unit>
@@ -377,7 +377,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 742056434" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The closing balance was not found in the data to be imported.</source>
-          <target state="translated">De slotbalans kon niet worden gevonden in de gegevens die moeten worden geïmporteerd.</target>
+          <target state="translated">Het eindsaldo is niet gevonden in de gegevens die moeten worden geïmporteerd.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType MissingClosingBalInDataMsg</note>
         </trans-unit>
@@ -431,13 +431,13 @@
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 2692357613" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The file that you are trying to import contains more than one bank statement.</source>
-          <target state="translated">Het bestand dat u probeert te importeren, bevat meerdere bankafschriften.</target>
+          <target state="translated">Het bestand dat u probeert te importeren, bevat meer dan één bankafschrift.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MultipleStmtErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 2780017665 - NamedType 2779639592" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Preparing line number #1#######</source>
-          <target state="translated">Regel nummer #1####### voorbereiden</target>
+          <target state="translated">Bezig met voorbereiden van regelnr. #1#######</target>
           <note from="Developer" annotates="general" priority="2">#1 = Linenumber</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Process Statement - NamedType ProgressMsg</note>
         </trans-unit>
@@ -449,7 +449,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1658105548 - NamedType 2671141422" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please wait while the server is processing your request.\This may take several minutes.</source>
-          <target state="translated">Wacht terwijl de server uw aanvraag verwerkt.\Dit kan enkele minuten duren.</target>
+          <target state="translated">Een ogenblik geduld. Uw aanvraag wordt verwerkt door de server.\Dit kan enkele minuten duren.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank REST Request Mgt. - NamedType ProcessingDialogMsg</note>
         </trans-unit>
@@ -479,7 +479,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 4228874151 - NamedType 320118130" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please wait while the server is processing your request.\This may take several minutes.</source>
-          <target state="translated">Wacht terwijl de server uw aanvraag verwerkt.\Dit kan enkele minuten duren.</target>
+          <target state="translated">Een ogenblik geduld. Uw aanvraag wordt verwerkt door de server.\Dit kan enkele minuten duren.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Service Request Mgt. - NamedType ProcessWindowDialogMsg</note>
         </trans-unit>

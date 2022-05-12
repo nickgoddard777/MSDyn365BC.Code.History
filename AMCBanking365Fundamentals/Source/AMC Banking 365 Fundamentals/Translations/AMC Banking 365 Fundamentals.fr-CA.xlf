@@ -197,7 +197,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 3725545329 - NamedType 1098773093" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The web service returned an error message:\</source>
-          <target state="translated">Le service web a renvoyé un message d'erreur :\</target>
+          <target state="translated">Le service web a renvoyé un message d’erreur :\</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Assisted Mgt. - NamedType TryLoadErrorLbl</note>
         </trans-unit>
@@ -395,25 +395,25 @@
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 1428720056" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The bank statement that you are importing contains transactions in currencies other than the %1 %2 of bank account %3.</source>
-          <target state="translated">Le relevé bancaire que vous importez contient des transactions dans des devises autres que les %1 %2 du compte bancaire %3.</target>
+          <target state="translated">Le relevé bancaire que vous importez contient des transactions dans des devises différentes du/de la %1 %2 du compte bancaire %3.</target>
           <note from="Developer" annotates="general" priority="2">%1 %2 = Currency Code EUR; %3 = Bank Account No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType BankAccCurrErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 1975081983" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account %1 does not have the bank account number %2, as specified in the bank statement file.\\Do you want to continue?</source>
-          <target state="translated">Le compte bancaire %1 n’a pas le numéro de compte bancaire %2, comme spécifié dans le fichier de relevé bancaire.\\Voulez-vous continuer ?</target>
+          <target state="translated">Le compte bancaire %1 ne possède pas de numéro %2, comme indiqué dans le fichier de relevé bancaire.\\Voulez-vous continuer ?</target>
           <note from="Developer" annotates="general" priority="2">%1=Value; %2 = Bank account no.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType BankAccMismatchQst</note>
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 2242781076" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The bank account number was not found in the data to be imported.</source>
-          <target state="translated">N° du compte bancaire introuvable dans les données à importer.</target>
+          <target state="translated">Numéro de compte bancaire introuvable dans les données à importer.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MissingBankAccNoInDataErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 4082076936" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account %1 does not have a bank account number.\\Do you want to continue?</source>
-          <target state="translated">Le compte bancaire %1 n’a pas de numéro de compte bancaire.\\Voulez-vous continuer ?</target>
+          <target state="translated">Le compte bancaire %1 ne possède pas de numéro.\\Voulez-vous continuer ?</target>
           <note from="Developer" annotates="general" priority="2">%1 = Bank Account No</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MissingBankAccNoQst</note>
         </trans-unit>
@@ -425,7 +425,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 1106260476" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The statement date was not found in the data to be imported.</source>
-          <target state="translated">Date du relevé introuvable dans les données à importer.</target>
+          <target state="translated">Date de relevé introuvable dans les données à importer.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MissingStmtDateInDataMsg</note>
         </trans-unit>
@@ -449,13 +449,13 @@
         </trans-unit>
         <trans-unit id="Codeunit 1658105548 - NamedType 2671141422" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please wait while the server is processing your request.\This may take several minutes.</source>
-          <target state="translated">Patientez pendant que le serveur traite votre demande.\Cette opération peut prendre plusieurs minutes.</target>
+          <target state="translated">Veuillez patienter pendant que le serveur traite votre demande.\Cette opération peut prendre plusieurs minutes.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank REST Request Mgt. - NamedType ProcessingDialogMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 1658105548 - NamedType 1098773093" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The web service returned an error message:\</source>
-          <target state="translated">Le service web a retourné un message d’erreur :\</target>
+          <target state="translated">Le service web a renvoyé un message d’erreur :\</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank REST Request Mgt. - NamedType TryLoadErrorLbl</note>
         </trans-unit>
@@ -479,13 +479,13 @@
         </trans-unit>
         <trans-unit id="Codeunit 4228874151 - NamedType 320118130" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please wait while the server is processing your request.\This may take several minutes.</source>
-          <target state="translated">Patientez pendant que le serveur traite votre demande.\Cette opération peut prendre plusieurs minutes.</target>
+          <target state="translated">Veuillez patienter pendant que le serveur traite votre demande.\Cette opération peut prendre plusieurs minutes.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Service Request Mgt. - NamedType ProcessWindowDialogMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 4228874151 - NamedType 1098773093" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The web service returned an error message:\</source>
-          <target state="translated">Le service web a renvoyé un message d'erreur :\</target>
+          <target state="translated">Le service web a renvoyé un message d’erreur :\</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Service Request Mgt. - NamedType TryLoadErrorLbl</note>
         </trans-unit>
@@ -1458,7 +1458,7 @@
         </trans-unit>
         <trans-unit id="Page 3893939787 - Control 1958465003 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>License number of Business Central for AMC Banking</source>
-          <target state="translated">Numéro de licence de Business Central pour AMC Banking</target>
+          <target state="translated">Numéro de licence Business Central pour AMC Banking</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Signup to Service - Control BCLicenseNumber - Property ToolTip</note>
         </trans-unit>
@@ -1791,7 +1791,7 @@
         </trans-unit>
         <trans-unit id="XmlPort 417263901 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>AMC Banking Export CreditTransfer</source>
-          <target state="translated">AMC Banking Service : Exportation virement</target>
+          <target state="translated">AMC Banking : Exportation virement</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort AMC Bank Export CreditTransfer - Property Caption</note>
         </trans-unit>

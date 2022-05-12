@@ -347,13 +347,13 @@
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 1428720056" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The bank statement that you are importing contains transactions in currencies other than the %1 %2 of bank account %3.</source>
-          <target state="translated">Импортируемая банковская выписка содержит транзакции в валютах, отличных от %1 %2 банковского счета %3.</target>
+          <target state="translated">Импортируемая банковская выписка содержит транзакции в валютах, отличных от %1 %2 (валюты банковского счета %3).</target>
           <note from="Developer" annotates="general" priority="2">%1 %2 = Currency Code EUR; %3 = Bank Account No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType BankAccCurrErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 1975081983" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account %1 does not have the bank account number %2, as specified in the bank statement file.\\Do you want to continue?</source>
-          <target state="translated">У банковского счета %1 нет номера банковского счета %2, указанного в файле банковской выписки.\\Продолжить?</target>
+          <target state="translated">Банковский счет %1 не имеет номера банковского счета %2, указанного в файле банковской выписки.\Продолжить?</target>
           <note from="Developer" annotates="general" priority="2">%1=Value; %2 = Bank account no.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType BankAccMismatchQst</note>
         </trans-unit>
@@ -365,7 +365,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 2242781076" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The bank account number was not found in the data to be imported.</source>
-          <target state="translated">Номер банковского счета не найден в импортируемых данных.</target>
+          <target state="translated">В импортируемых данных не найден номер банковского счета.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType MissingBankAccNoInDataErr</note>
         </trans-unit>
@@ -377,13 +377,13 @@
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 742056434" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The closing balance was not found in the data to be imported.</source>
-          <target state="translated">Не удалось найти конечное сальдо в импортируемых данных.</target>
+          <target state="translated">В импортируемых данных на найдено конечное сальдо.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType MissingClosingBalInDataMsg</note>
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 1106260476" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The statement date was not found in the data to be imported.</source>
-          <target state="translated">Не удалось найти дату выписки в импортируемых данных.</target>
+          <target state="translated">В импортируемых данных не найдена дата выписки.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType MissingStmtDateInDataMsg</note>
         </trans-unit>
@@ -401,7 +401,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 1975081983" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account %1 does not have the bank account number %2, as specified in the bank statement file.\\Do you want to continue?</source>
-          <target state="translated">У банковского счета %1 нет номера банковского счета %2, как указано в файле банковской выписки.\\Продолжить?</target>
+          <target state="translated">Банковский счет %1 не имеет номера банковского счета %2, указанного в файле банковской выписки.\Продолжить?</target>
           <note from="Developer" annotates="general" priority="2">%1=Value; %2 = Bank account no.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType BankAccMismatchQst</note>
         </trans-unit>
@@ -1797,7 +1797,7 @@
         </trans-unit>
         <trans-unit id="XmlPort 1184337646 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>AMC Banking Export CreditTransfer</source>
-          <target state="translated">Экспортный кредитовый перевод AMC Banking</target>
+          <target state="translated">Экспорт кредитовых переводов AMC Banking</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort AMC Bank Export CT - Property Caption</note>
         </trans-unit>

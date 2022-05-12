@@ -347,7 +347,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 1428720056" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The bank statement that you are importing contains transactions in currencies other than the %1 %2 of bank account %3.</source>
-          <target state="translated">Bankayfirlitið sem verið að flytja inn inniheldur færslur í gjaldmiðlum sem eru aðrir en %1 %2 í bankareikningi %3.</target>
+          <target state="translated">Bankayfirlitið sem verið er að flytja inn inniheldur færslur í öðrum gjaldmiðlum en %1 %2 fyrir bankareikninginn %3.</target>
           <note from="Developer" annotates="general" priority="2">%1 %2 = Currency Code EUR; %3 = Bank Account No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType BankAccCurrErr</note>
         </trans-unit>
@@ -401,7 +401,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 1975081983" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account %1 does not have the bank account number %2, as specified in the bank statement file.\\Do you want to continue?</source>
-          <target state="translated">Bankareikningurinn %1 er ekki með bankareikningsnúmerið %2, eins og tilgreint er í bankayfirlitsskránni.\\Á að halda áfram?</target>
+          <target state="translated">Bankareikningur %1 er ekki með bankareikningsnúmer %2, eins tilgreint er í bankayfirlitsskránni.\\Á að halda áfram?</target>
           <note from="Developer" annotates="general" priority="2">%1=Value; %2 = Bank account no.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType BankAccMismatchQst</note>
         </trans-unit>
@@ -413,7 +413,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 4082076936" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Bank account %1 does not have a bank account number.\\Do you want to continue?</source>
-          <target state="translated">Bankareikningurinn %1 er ekki með bankareikningsnúmer.\\Á að halda áfram?</target>
+          <target state="translated">Bankareikningur %1 er ekki með bankareikningsnúmer.\\Á að halda áfram?</target>
           <note from="Developer" annotates="general" priority="2">%1 = Bank Account No</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType MissingBankAccNoQst</note>
         </trans-unit>
@@ -449,7 +449,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 1658105548 - NamedType 2671141422" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please wait while the server is processing your request.\This may take several minutes.</source>
-          <target state="translated">Bíddu á meðan netþjónninn vinnur beiðnina.\Þetta getur tekið nokkrar mínútur.</target>
+          <target state="translated">Bíða skal á meðan netþjónninn er að meðhöndla beiðnina.\Þetta getur tekið nokkrar mínútur.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank REST Request Mgt. - NamedType ProcessingDialogMsg</note>
         </trans-unit>
@@ -479,7 +479,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 4228874151 - NamedType 320118130" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please wait while the server is processing your request.\This may take several minutes.</source>
-          <target state="translated">Bíddu á meðan netþjónninn vinnur beiðnina.\Þetta getur tekið nokkrar mínútur.</target>
+          <target state="translated">Bíða skal á meðan netþjónninn er að meðhöndla beiðnina.\Þetta getur tekið nokkrar mínútur.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Service Request Mgt. - NamedType ProcessWindowDialogMsg</note>
         </trans-unit>

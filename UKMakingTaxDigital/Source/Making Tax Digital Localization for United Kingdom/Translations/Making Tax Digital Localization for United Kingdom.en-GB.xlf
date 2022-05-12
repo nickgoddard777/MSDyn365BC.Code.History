@@ -249,137 +249,17 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Connection - NamedType OpenSetupQst</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 2495299740" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>HMRC requires additional information that will be used to uniquely identify your request. The following fraud prevention headers will be sent:\\%1\If you accept that the data in the list is sent, choose the Yes button to continue. If you do not continue, the current HMRC communication will be cancelled, and no data will be sent or received.\Do you want to continue?</source>
-          <target state="translated">HMRC requires additional information that will be used to uniquely identify your request. The following fraud prevention headers will be sent:\\%1\If you accept that the data in the list is sent, choose the Yes button to continue. If you do not continue, the current HMRC communication will be cancelled, and no data will be sent or received.\Do you want to continue?</target>
-          <note from="Developer" annotates="general" priority="2">%1 - a list of missing headers</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType ConfirmHeadersQst</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 4065395069" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>A true or false value describing if the Do Not Track option is enabled on the browser.</source>
-          <target state="translated">A true or false value describing if the Do Not Track option is enabled on the browser.</target>
+        <trans-unit id="Codeunit 2777125217 - NamedType 980213278" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Public IP address lookup failed. Specify a service that will return the public IP address of the current user.</source>
+          <target state="translated">Public IP address lookup failed. Specify a service that will return the public IP address of the current user.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientBrowserDoNotTrackDescTxt</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType IPAddressErr</note>
         </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 1883732317" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>JavaScript-reported user agent string from the originating device.</source>
-          <target state="translated">JavaScript-reported user agent string from the originating device.</target>
+        <trans-unit id="Codeunit 2777125217 - NamedType 1795289381" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Public IP address lookup was successful.</source>
+          <target state="translated">Public IP address lookup was successful.</target>
           <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientBrowserJSUserAgentDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 3029391316" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>A list of browser plugins on the originating device.</source>
-          <target state="translated">A list of browser plugins on the originating device.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientBrowserPluginsDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 3246757069" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>An identifier unique to the originating device.</source>
-          <target state="translated">An identifier unique to the originating device.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientDeviceIDDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 83160179" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>A list of all local IPv4 and IPv6 addresses available to the originating device.</source>
-          <target state="translated">A list of all local IPv4 and IPv6 addresses available to the originating device.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientLocalIPsDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 2560313737" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>A timestamp to show when Gov-Client-Local-IPs is collected.</source>
-          <target state="translated">A timestamp to show when Gov-Client-Local-IPs is collected.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientLocalIPsTimestampDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 1682340515" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The list of MAC addresses available on the originating device.</source>
-          <target state="translated">The list of MAC addresses available on the originating device.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientMACAddressesDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 451321606" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>A list of key-value data structures containing details of the multi-factor authentication (MFA) statuses related to the API call.</source>
-          <target state="translated">A list of key-value data structures containing details of the multi-factor authentication (MFA) statuses related to the API call.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientMultiFactorDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 3189163538" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The public IPv4 or IPv6 address from which the originating device makes the request.</source>
-          <target state="translated">The public IPv4 or IPv6 address from which the originating device makes the request.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientPublicIPDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 80376516" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>A timestamp to show when Gov-Client-Public-IP is collected.</source>
-          <target state="translated">A timestamp to show when Gov-Client-Public-IP is collected.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientPublicIPTimestampDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 2878199434" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The public TCP port used by the originating device when initiating the request.</source>
-          <target state="translated">The public TCP port used by the originating device when initiating the request.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientPublicPortDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 1781674051" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Information about the originating device's screens.</source>
-          <target state="translated">Information about the originating device's screens.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientScreensDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 1286782599" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The local timezone of the originating device.</source>
-          <target state="translated">The local timezone of the originating device.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientTimezoneDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 1768670546" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Identifies the operating system and device.</source>
-          <target state="translated">Identifies the operating system and device.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientUserAgentDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 2345631611" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>A key-value data structure containing user identifiers.</source>
-          <target state="translated">A key-value data structure containing user identifiers.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientUserIDsDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 1695011641" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The number of pixels of the window on the originating device.</source>
-          <target state="translated">The number of pixels of the window on the originating device.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovClientWindowSizeDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 840096899" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>A list that details hops over the internet between services that terminate Transport Layer Security (TLS).</source>
-          <target state="translated">A list that details hops over the internet between services that terminate Transport Layer Security (TLS).</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovVendorForwardedDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 1106987653" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The public IP address of the servers the originating device sent their requests to.</source>
-          <target state="translated">The public IP address of the servers the originating device sent their requests to.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType GovVendorPublicIPDescTxt</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 872010099" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>The following fraud prevention headers were missing in the latest HMRC request:\\%1</source>
-          <target state="translated">The following fraud prevention headers were missing in the latest HMRC request:\\%1</target>
-          <note from="Developer" annotates="general" priority="2">%1 - a list of the missing headers</note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType MissingHeadersMsg</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 2910485357" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>All required fraud prevention headers were provided in the latest HMRC request.</source>
-          <target state="translated">All required fraud prevention headers were provided in the latest HMRC request.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType NoMissingHeaderMsg</note>
-        </trans-unit>
-        <trans-unit id="Codeunit 2777125217 - NamedType 3355038226" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Communication with HMRC without fraud prevention headers is not allowed. Set up the missing headers in the HMRC Fraud Prevention Headers Setup page, and specify a default value for each of them. Choose the Get Current Headers action to see which headers cannot be retrieved automatically.</source>
-          <target state="translated">Communication with HMRC without fraud prevention headers is not allowed. Set up the missing headers in the HMRC Fraud Prevention Headers Setup page, and specify a default value for each of them. Choose the Get Current Headers action to see which headers cannot be retrieved automatically.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType OpenHeadersSetupMsg</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MTD Fraud Prevention Mgt. - NamedType IPAddressOkTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 753440336 - NamedType 1672992501" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>VAT Return Periods</source>
@@ -759,6 +639,18 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page MTD Return Details - Control VAT Reclaimed Curr Period - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 2402660826 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Communicating with HMRC</source>
+          <target state="translated">Communicating with HMRC</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MTD Web Client FP Headers - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2402660826 - Control 2567774546 - Property 1968111052" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Please keep this window open.</source>
+          <target state="translated">Please keep this window open.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page MTD Web Client FP Headers - Control UserControl - Property InstructionalText</note>
+        </trans-unit>
         <trans-unit id="Report 884176103 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Get MTD Records</source>
           <target state="translated">Get MTD Records</target>
@@ -898,6 +790,13 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 456029390</note>
         </trans-unit>
+        <trans-unit id="PageExtension 2246652568 - Control 2117488727 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the endpoint of an IP address lookup service that will return the IP address of the user who submits the report. The IP address of the user is included with Fraud Prevention Headers when Business Central communicates with HMRC.</source>
+          <target state="translated">Specifies the endpoint of an IP address lookup service that will return the IP address of the user who submits the report. The IP address of the user is included with Fraud Prevention Headers when Business Central communicates with HMRC.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Page 456029390</note>
+        </trans-unit>
         <trans-unit id="PageExtension 2246652568 - Change 2113015937 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Making Tax Digital</source>
           <target state="translated">Making Tax Digital</target>
@@ -929,6 +828,13 @@
         <trans-unit id="TableExtension 2246652568 - Field 1157416033 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>MTD FP Batch Json</source>
           <target state="translated">MTD FP Batch Json</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3" />
+          <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 2246652568 - Field 4074742823 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>User IP Address Service</source>
+          <target state="translated">User IP Address Service</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>

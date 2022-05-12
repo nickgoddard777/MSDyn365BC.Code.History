@@ -389,13 +389,13 @@
         </trans-unit>
         <trans-unit id="Codeunit 1873957797 - NamedType 2692357613" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The file that you are trying to import contains more than one bank statement.</source>
-          <target state="translated">Filen som du försöker att importera innehåller ett eller flera tomma bankutdrag.</target>
+          <target state="translated">Filen som du försöker importera innehåller fler än ett bankutdrag.</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Pre&amp;Post Process - NamedType MultipleStmtErr</note>
         </trans-unit>
         <trans-unit id="Codeunit 1633887332 - NamedType 1428720056" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The bank statement that you are importing contains transactions in currencies other than the %1 %2 of bank account %3.</source>
-          <target state="translated">Bankutdraget som du importerar innehåller transaktioner i andra valutor än %1 %2 för bankkontot %3.</target>
+          <target state="translated">Det bankutdrag som du importerar innehåller transaktioner i andra valutor än %1 %2 för bankkontot %3.</target>
           <note from="Developer" annotates="general" priority="2">%1 %2 = Currency Code EUR; %3 = Bank Account No.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank PrePost Proc - NamedType BankAccCurrErr</note>
         </trans-unit>
@@ -1797,7 +1797,7 @@
         </trans-unit>
         <trans-unit id="XmlPort 1184337646 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>AMC Banking Export CreditTransfer</source>
-          <target state="translated">Kreditöverföring för AMC Banking Service</target>
+          <target state="translated">AMC Banking Service - exportera kreditöverföring</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">XmlPort AMC Bank Export CT - Property Caption</note>
         </trans-unit>
