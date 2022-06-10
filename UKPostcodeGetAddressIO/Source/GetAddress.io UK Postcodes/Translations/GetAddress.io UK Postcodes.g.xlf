@@ -53,6 +53,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Postcode Service GetAddress.io - NamedType NotFoundErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 1779888028 - NamedType 1142902273" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Requested postal code requires a paid plan by getAddress.io</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Postcode Service GetAddress.io - NamedType PaymentErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1779888028 - NamedType 1628434534" size-unit="char" translate="yes" xml:space="preserve">
           <source>The getAddress.io service is not available right now. Try again later.</source>
           <note from="Developer" annotates="general" priority="2"></note>
