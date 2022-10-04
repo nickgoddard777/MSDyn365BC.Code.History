@@ -103,6 +103,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page GetAddress.io Config - NamedType ThirdPartyNoticeMsg</note>
         </trans-unit>
+        <trans-unit id="Page 3695382510 - Control 4253087169 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Key for GetAddress.io</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GetAddress.io Config - Control API Key - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3695382510 - Control 1259723980 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Endpoint URL for GetAddress.io</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page GetAddress.io Config - Control Endpoint URL - Property ToolTip</note>
+        </trans-unit>
       </group>
     </body>
   </file>

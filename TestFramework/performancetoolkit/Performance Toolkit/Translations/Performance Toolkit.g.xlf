@@ -259,7 +259,7 @@
           <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Log Entry - Field Codeunit Name - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1941709903 - Field 495089811 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Duration (ms)</source>
+          <source>DurationInMs (ms)</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Log Entry - Field Duration (ms) - Property Caption</note>
         </trans-unit>
@@ -272,6 +272,11 @@
           <source>Entry No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Log Entry - Field Entry No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1941709903 - Field 3446276168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Error Call Stack</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table BCPT Log Entry - Field Error Call Stack - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1941709903 - Field 3080618677 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Message</source>
@@ -698,6 +703,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entries - Control Entry No. - Property ToolTip</note>
         </trans-unit>
+        <trans-unit id="Page 1184719117 - Control 3446276168 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the call stack for this error</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entries - Control Error Call Stack - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1184719117 - Control 3446276168 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Call stack</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Log Entries - Control Error Call Stack - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1184719117 - Control 3080618677 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies when the message from the test.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -1087,11 +1102,6 @@
           <source>It is taking longer to stop the run than expected. You can reopen the page later to check the status or you can invoke "Reset Status" action.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Setup Card - Action Stop - Method OnAction - NamedType SomethingWentWrongErr</note>
-        </trans-unit>
-        <trans-unit id="Page 494180900 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
-          <source>New,Process,Report,Import/Export</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BCPT Setup List - Property PromotedActionCategories</note>
         </trans-unit>
         <trans-unit id="Page 494180900 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>BCPT Suites</source>

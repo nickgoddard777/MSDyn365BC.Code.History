@@ -477,6 +477,12 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Service Request Mgt. - NamedType FeatureConsentErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 4228874151 - NamedType 3790589760" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>%1\\Do you want us to open the AMC Banking Setup page for you?</source>
+          <target state="translated">%1\\Eigum við að opna uppsetningarsíðu AMC Banking?</target>
+          <note from="Developer" annotates="general" priority="2">%1 = FeatureConsentErr</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit AMC Bank Service Request Mgt. - NamedType FeatureConsentQst</note>
+        </trans-unit>
         <trans-unit id="Codeunit 4228874151 - NamedType 320118130" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Please wait while the server is processing your request.\This may take several minutes.</source>
           <target state="translated">Bíða skal á meðan netþjónninn er að meðhöndla beiðnina.\Þetta getur tekið nokkrar mínútur.</target>
@@ -1331,12 +1337,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Assisted Setup - Action Start update - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 3327916022 - Property 2019332006" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>New,Process,Page,Setup</source>
-          <target state="translated">Nýtt,Vinna,Síða,Uppsetning</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Bank Name List - Property PromotedActionCategories</note>
-        </trans-unit>
         <trans-unit id="Page 3327916022 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>AMC Banking Bank Name List</source>
           <target state="translated">Bankanafnalisti AMC Banking Service</target>
@@ -1598,12 +1598,6 @@
           <target state="translated">Eyða færslum eldri en sjö daga</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AMC Bank Webcall Log - Action Delete7days - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 3704095706 - Property 2019332006" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>New,Process,Page,Sign-up,Assisted setup,Bank Name,Encryption,Support</source>
-          <target state="translated">Nýtt,Vinnsla,Síða,Skráning,Uppsetning með hjálp,Heiti banka,Dulkóðun,Stuðningur</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AMC Banking Setup - Property PromotedActionCategories</note>
         </trans-unit>
         <trans-unit id="Page 3704095706 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>AMC Banking Setup</source>

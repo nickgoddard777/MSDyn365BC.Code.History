@@ -291,12 +291,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit MS - WorldPay Standard Mgt. - NamedType WorldPayCaptionURLTxt</note>
         </trans-unit>
-        <trans-unit id="Codeunit 1284802830 - NamedType 3143294897" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Add WorldPay link to your invoices.</source>
-          <target state="translated">Lägg till WorldPay-länk på dina fakturor.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MS - WorldPay Standard Mgt. - NamedType WorldPayMenuDescriptionTxt</note>
-        </trans-unit>
         <trans-unit id="Codeunit 1284802830 - NamedType 1788631818" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>An error occured while creating the WorldPay payment link.</source>
           <target state="translated">Ett fel uppstod när WorldPay-betalningslänken skapades.</target>
@@ -332,6 +326,12 @@
           <target state="translated">WorldPay Payments Standard</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit MS - WorldPay Standard Mgt. - NamedType WorldPayStandardNameTxt</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 1284802830 - NamedType 384630104" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>WorldPay Setup</source>
+          <target state="translated">Konfiguration av WorldPay</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit MS - WorldPay Standard Mgt. - NamedType WorldPayStandardShortNameTxt</note>
         </trans-unit>
         <trans-unit id="Codeunit 1284802830 - NamedType 1045122670" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Your Ref.</source>

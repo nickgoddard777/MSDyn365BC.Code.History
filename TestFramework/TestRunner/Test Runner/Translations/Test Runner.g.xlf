@@ -3,10 +3,70 @@
   <file datatype="xml" source-language="en-US" target-language="en-US" original="Test Runner">
     <body>
       <group id="body">
+        <trans-unit id="Table 1628886054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AL Code Coverage Map</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Code Coverage Map - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1628886054 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Code Coverage Map - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1628886054 - Field 3711240756 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Code Coverage Map - Field Object ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1628886054 - Field 1085746399 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Code Coverage Map - Field Object Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1628886054 - Field 3515289124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Codeunit ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Code Coverage Map - Field Test Codeunit ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1628886054 - Field 3234827043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Code Coverage Map - Field Test Method - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 466518607 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>AL Test Suite</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table AL Test Suite - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 466518607 - Field 4151209518 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CC Coverage Map</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Test Suite - Field CC Coverage Map - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 466518607 - Field 4151209518 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disabled,Per Codeunit,Per Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Test Suite - Field CC Coverage Map - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 466518607 - Field 1068590242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CC Exporter ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Test Suite - Field CC Exporter ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 466518607 - Field 3048200173 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CC Track All Sessions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Test Suite - Field CC Track All Sessions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 466518607 - Field 1545903865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CC Tracking Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Test Suite - Field CC Tracking Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 466518607 - Field 1545903865 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Disabled,Per Run,Per Codeunit,Per Test</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Test Suite - Field CC Tracking Type - Property OptionCaption</note>
         </trans-unit>
         <trans-unit id="Table 466518607 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Description</source>
@@ -38,6 +98,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table AL Test Suite - Field Run Type - Property OptionCaption</note>
         </trans-unit>
+        <trans-unit id="Table 466518607 - Field 117215960 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stability Run</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table AL Test Suite - Field Stability Run - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Table 466518607 - Field 4018684269 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Test Runner Id</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -52,6 +117,26 @@
           <source>Tests to Execute</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table AL Test Suite - Field Tests to Execute - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 873180088 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Code Coverage Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Test Code Coverage Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 873180088 - Field 2157191323 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>CC Result</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Test Code Coverage Result - Field CC Result - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 873180088 - Field 3515289124 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Codeunit ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Test Code Coverage Result - Field Test Codeunit ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 873180088 - Field 3234827043 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Method</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Test Code Coverage Result - Field Test Method - Property Caption</note>
         </trans-unit>
         <trans-unit id="Table 1101906057 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Test Method Line</source>
@@ -152,6 +237,206 @@
           <source>No test runner is selected.</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Test Suite Mgt. - NamedType NoTestRunnerSelectedTxt</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 3520238684 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the object ID filter that applies when tracking which part of the application code has been exercised during test activity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control ObjectIdFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 3520238684 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Id Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control ObjectIdFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 3904799447 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the object type filter that applies when tracking which part of the application code has been exercised during test activity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control ObjectTypeFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 3904799447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type Filter</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control ObjectTypeFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 2357961265 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the extent to which the application code is covered by tests.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control RequiredCoverage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 2357961265 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Required Coverage %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control RequiredCoverage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 866387593 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the extent to which the application code is covered by tests.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control TotalCoveragePercent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 866387593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Coverage %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control TotalCoveragePercent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 153117793 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the total number of lines, when tracking which part of the application code has been exercised during test activity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control TotalNoofLines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 153117793 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total # Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control TotalNoofLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 2123958759 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control Object - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 3345156549 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies which part of the application code has been exercised during test activity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control CodeLine - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 3345156549 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control CodeLine - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 1953626415 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the percentage applied to the code coverage line.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control CoveragePercent - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 1953626415 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coverage %</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control CoveragePercent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 1165969121 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the line number, when tracking which part of the application code has been exercised during test activity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control LineNo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 1165969121 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control LineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 1123404076 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of hit lines, when tracking which part of the application code has been exercised during test activity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control LinesHit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 1123404076 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Hit Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control LinesHit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 3249524095 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of skipped lines, when tracking which part of the application code has been exercised during test activity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control LinesNotHit - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 3249524095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Skipped Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control LinesNotHit - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 697060706 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the line type, when tracking which part of the application code has been exercised during test activity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control LineType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 697060706 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control LineType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 495416724 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of hits, when tracking which part of the application code has been exercised during test activity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control No. of Hits - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 495416724 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Hits</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control No. of Hits - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 3417397831 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the number of lines, when tracking which part of the application code has been exercised during test activity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control NoofLines - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 3417397831 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Lines</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control NoofLines - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 568116884 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the ID of the object.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control ObjectID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 568116884 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control ObjectID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 4766335 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the average coverage of all code lines inside the object, when tracking which part of the application code has been exercised during test activity.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control ObjectType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Control 4766335 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Object Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Control ObjectType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Action 2026913255 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh the page.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Action Refresh - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Action 2026913255 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Action Refresh - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Action 620325036 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Code Coverage.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Action Start - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Action 620325036 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Action Start - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Action 915332364 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stop Code Coverage.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Action Stop - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Action 915332364 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stop</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Action Stop - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Action 3625068723 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back up or restore the database.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Action Backup/Restore - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3453384002 - Action 3625068723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Backup/Restore</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Code Coverage - Action Backup/Restore - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 134090330 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>AL Test Suites</source>
@@ -263,16 +548,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control TestCodeunit - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 1579170981 - Control 1361235378 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies currently selected test runner</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control TestRunner - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="Page 1579170981 - Control 1361235378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Test Runner Codeunit</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control TestRunner - Property Caption</note>
-        </trans-unit>
         <trans-unit id="Page 1579170981 - Control 1649497866 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the number of Failed Tests</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -313,6 +588,26 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control SuccessfulTests - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1579170981 - Control 3299098061 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies should all seesions be tracked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control CodeCoverageTrackAllSesssions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1579170981 - Control 3299098061 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Track All Sessions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control CodeCoverageTrackAllSesssions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1579170981 - Control 1142256824 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies how the code coverage should be tracked</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control CodeCoverageTrackingType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1579170981 - Control 1142256824 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Tracking</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control CodeCoverageTrackingType - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1579170981 - Control 731153284 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the currently selected Test Suite</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -323,10 +618,30 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control CurrentSuiteName - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1579170981 - Control 1361235378 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies currently selected test runner</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control TestRunner - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1579170981 - Control 1361235378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Runner Codeunit</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Control TestRunner - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1579170981 - Action 3800498712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Manage Tests</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Action Manage Tests - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1579170981 - Action 2899503077 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the action for invoking Code Coverage page</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Action CodeCoverage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1579170981 - Action 2899503077 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>&amp;Code Coverage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page AL Test Tool - Action CodeCoverage - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1579170981 - Action 4289051840 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Delete the selected lines.</source>
@@ -422,6 +737,61 @@
           <source>Command Line Test Tool</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 4122605658 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Code Coverage exporter ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control CCExporterID - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 4122605658 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Exporter ID</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control CCExporterID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 216804570 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Code Coverage information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control CCInfo - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 216804570 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control CCInfo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 617220784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Map</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control CCMap - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 2731927499 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Code Coverage results as CSV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control CCResultsCSVText - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 2731927499 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Results CSV</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control CCResultsCSVText - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 1524157645 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies if the Code Coverage should track all sessions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control CCTrackAllSessions - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 1524157645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Track All Sessions</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control CCTrackAllSessions - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 590832353 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the Code Coverage tracking type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control CCTrackingType - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 590832353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Tracking Type</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control CCTrackingType - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1018362353 - Control 2763291245 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies full error message with stack trace</source>
@@ -543,6 +913,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control ExtensionId - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 2310440504 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the latest execution of the test as JSON</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control StabilityRun - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 2310440504 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stability run</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control StabilityRun - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1018362353 - Control 3456222494 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the values that will update the current suite selection</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -552,6 +932,16 @@
           <source>Test Codeunit Range</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control TestCodeunitRangeFilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 2972094448 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Specifies the test procedure range</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control TestProcedureRangeFilter - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Control 2972094448 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Test Procedure Range</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control TestProcedureRangeFilter - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1018362353 - Control 2118101425 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the latest execution of the test as JSON</source>
@@ -573,6 +963,16 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Control TestRunnerCodeunitId - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 1018362353 - Action 4065007206 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Clear Code Coverage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Action ClearCodeCoverage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Action 4065007206 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ClearCodeCoverage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Action ClearCodeCoverage - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 1018362353 - Action 562684735 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Clear the test results.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -582,6 +982,21 @@
           <source>Clear Test R&amp;esults</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Action ClearTestResults - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Action 4256570511 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Update Code Coverage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Action GetCodeCoverage - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Action 4256570511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetCodeCoverage</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Action GetCodeCoverage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1018362353 - Action 1911664691 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>GetCodeCoverageMap</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Command Line Test Tool - Action GetCodeCoverageMap - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 1018362353 - Action 2740126548 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
           <source>Runs the next test.</source>
@@ -662,6 +1077,21 @@
           <source>Test Runner</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page Test Role Center - Action TestRunner - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 1628886054 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>AL Code Coverage Map</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort AL Code Coverage Map - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 3032005877 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Detailed</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort Code Coverage Detailed - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="XmlPort 538526507 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Code Coverage Results</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">XmlPort Code Coverage Results - Property Caption</note>
         </trans-unit>
         <trans-unit id="Profile 2123141259 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Test Role Center</source>
