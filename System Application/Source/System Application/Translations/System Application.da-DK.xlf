@@ -4253,7 +4253,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 3692338268 - NamedType 2485686368" maxwidth="125" size-unit="char" translate="yes" xml:space="preserve">
           <source>You're all set to try out our demo company, Cronus. Go explore on your own, or take a quick tour first.</source>
-          <target state="translated">Du er klar til at prøve vores demovirksomhed, Cronus. Udforsk din egen, eller tag først en hurtig rundvisning.</target>
+          <target state="translated">Du er klar til at prøve vores demovirksomhed, Cronus. Udforsk på egen hånd, eller tag først en hurtig rundvisning.</target>
           <note from="Developer" annotates="general" priority="2">*Onboarding Checklist*</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Checklist Banner - NamedType BannerDescriptionWelcomeEvaluationLbl</note>
         </trans-unit>

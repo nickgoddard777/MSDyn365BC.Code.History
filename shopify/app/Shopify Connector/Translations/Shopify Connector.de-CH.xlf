@@ -3401,6 +3401,7 @@
         </trans-unit>
         <trans-unit id="Codeunit 3550761784 - Method 2453499666 - NamedType 4188303008" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>The response from Shopify contains no JSON. \Requested: %1 \Response: %2</source>
+          <target state="translated">Die Antwort von Shopify enthält keine JSON. \Angefordert: %1 \Antwort: %2</target>
           <note from="Developer" annotates="general" priority="2">%1 = The request = %2 = Received data</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Shpfy Communication Mgt. - Method ExecuteGraphQL - NamedType NoJsonErr</note>
         </trans-unit>

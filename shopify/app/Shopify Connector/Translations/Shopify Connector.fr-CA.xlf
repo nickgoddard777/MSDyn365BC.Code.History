@@ -3399,6 +3399,12 @@
           <note from="Developer" annotates="general" priority="2">%1 = Errors from json structure.</note>
           <note from="Xliff Generator" annotates="general" priority="3">Codeunit Shpfy Communication Mgt. - Method ExecuteGraphQL - NamedType ErrorOnShopifyErr</note>
         </trans-unit>
+        <trans-unit id="Codeunit 3550761784 - Method 2453499666 - NamedType 4188303008" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The response from Shopify contains no JSON. \Requested: %1 \Response: %2</source>
+          <target state="translated">La réponse de Shopify ne contient pas de fichier JSON. \Demandé : %1 \Réponse : %2</target>
+          <note from="Developer" annotates="general" priority="2">%1 = The request = %2 = Received data</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Shpfy Communication Mgt. - Method ExecuteGraphQL - NamedType NoJsonErr</note>
+        </trans-unit>
         <trans-unit id="Codeunit 1627249452 - Method 1907671471 - NamedType 2108178444" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Wrong updated Customer Id</source>
           <target state="translated">Code client mis à jour erroné</target>
