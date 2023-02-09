@@ -153,6 +153,12 @@
                         "path":  ".\\ImageAnalysis\\Test\\Image Analyzer Tests"
                     },
                     {
+                        "path":  ".\\Intrastat\\Test\\Intrastat Core Tests"
+                    },
+                    {
+                        "path":  ".\\IntrastatGB\\Test\\Intrastat GB Tests"
+                    },
+                    {
                         "path":  ".\\LatePaymentPredictor\\Test\\Late Payment Prediction Tests"
                     },
                     {
