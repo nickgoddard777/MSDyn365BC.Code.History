@@ -638,16 +638,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension MTD Report Setup - Control MTD OAuth Setup Option - Property Caption</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2246652568 - Control 3204024253 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 456029390">
-          <source>Specifies if fraud prevention headers are disabled. Choose the field if you do not want to include fraud prevention headers in the HTTP requests that are sent to HMRC.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MTD Report Setup - Control MTDDisableFPHeaders - Property ToolTip</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 2246652568 - Control 3204024253 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 456029390">
-          <source>Disable Fraud Prevention Headers</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">PageExtension MTD Report Setup - Control MTDDisableFPHeaders - Property Caption</note>
-        </trans-unit>
         <trans-unit id="PageExtension 2246652568 - Control 2117488727 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 456029390">
           <source>Specifies the endpoint of an IP address lookup service that will return the IP address of the user who submits the report. The IP address of the user is included with Fraud Prevention Headers when Business Central communicates with HMRC.</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -658,50 +648,15 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">PageExtension MTD Report Setup - Change Return Period - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 3417661058 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 456029390">
-          <source>MTD Disable FraudPrev. Headers</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MTD Report Setup - Field MTD Disable FraudPrev. Headers - Property Caption</note>
-        </trans-unit>
         <trans-unit id="TableExtension 2246652568 - Field 1675453964 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 456029390">
           <source>Enabled</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension MTD Report Setup - Field MTD Enabled - Property Caption</note>
         </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 3423376878 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 456029390">
-          <source>MTD FP Batch Due DateTime</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MTD Report Setup - Field MTD FP Batch Due DateTime - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 1157416033 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 456029390">
-          <source>MTD FP Batch Json</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MTD Report Setup - Field MTD FP Batch Json - Property Caption</note>
-        </trans-unit>
         <trans-unit id="TableExtension 2246652568 - Field 4074742823 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 456029390">
           <source>User IP Address Service</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">TableExtension MTD Report Setup - Field MTD FP Public IP Service URL - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 2580648929 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 456029390">
-          <source>MTD FP WebClient Due DateTime</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MTD Report Setup - Field MTD FP WebClient Due DateTime - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 693085422 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 456029390">
-          <source>MTD FP WebClient Json</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MTD Report Setup - Field MTD FP WebClient Json - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 343078785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 456029390">
-          <source>MTD FP WinClient Due DateTime</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MTD Report Setup - Field MTD FP WinClient Due DateTime - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 3096414478 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 456029390">
-          <source>MTD FP WinClient Json</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">TableExtension MTD Report Setup - Field MTD FP WinClient Json - Property Caption</note>
         </trans-unit>
         <trans-unit id="TableExtension 2246652568 - Field 2038032189 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 456029390">
           <source>MTD Gov Test Scenario</source>

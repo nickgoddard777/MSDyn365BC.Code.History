@@ -776,20 +776,6 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 456029390</note>
         </trans-unit>
-        <trans-unit id="PageExtension 2246652568 - Control 3204024253 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Specifies if fraud prevention headers are disabled. Choose the field if you do not want to include fraud prevention headers in the HTTP requests that are sent to HMRC.</source>
-          <target state="translated">Specifies if fraud prevention headers are disabled. Choose the field if you do not want to include fraud prevention headers in the HTTP requests that are sent to HMRC.</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 456029390</note>
-        </trans-unit>
-        <trans-unit id="PageExtension 2246652568 - Control 3204024253 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Disable Fraud Prevention Headers</source>
-          <target state="translated">Disable Fraud Prevention Headers</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Page 456029390</note>
-        </trans-unit>
         <trans-unit id="PageExtension 2246652568 - Control 2117488727 - Property 1295455071" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Specifies the endpoint of an IP address lookup service that will return the IP address of the user who submits the report. The IP address of the user is included with Fraud Prevention Headers when Business Central communicates with HMRC.</source>
           <target state="translated">Specifies the endpoint of an IP address lookup service that will return the IP address of the user who submits the report. The IP address of the user is included with Fraud Prevention Headers when Business Central communicates with HMRC.</target>
@@ -804,13 +790,6 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Page 456029390</note>
         </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 3417661058 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>MTD Disable FraudPrev. Headers</source>
-          <target state="translated">MTD Disable FraudPrev. Headers</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>
-        </trans-unit>
         <trans-unit id="TableExtension 2246652568 - Field 1675453964 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>Enabled</source>
           <target state="translated">Enabled</target>
@@ -818,51 +797,9 @@
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>
         </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 3423376878 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>MTD FP Batch Due DateTime</source>
-          <target state="translated">MTD FP Batch Due DateTime</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 1157416033 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>MTD FP Batch Json</source>
-          <target state="translated">MTD FP Batch Json</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>
-        </trans-unit>
         <trans-unit id="TableExtension 2246652568 - Field 4074742823 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
           <source>User IP Address Service</source>
           <target state="translated">User IP Address Service</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 2580648929 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>MTD FP WebClient Due DateTime</source>
-          <target state="translated">MTD FP WebClient Due DateTime</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 693085422 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>MTD FP WebClient Json</source>
-          <target state="translated">MTD FP WebClient Json</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 343078785 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>MTD FP WinClient Due DateTime</source>
-          <target state="translated">MTD FP WinClient Due DateTime</target>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3" />
-          <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>
-        </trans-unit>
-        <trans-unit id="TableExtension 2246652568 - Field 3096414478 - Property 2879900210" maxwidth="0" size-unit="char" translate="yes" xml:space="preserve">
-          <source>MTD FP WinClient Json</source>
-          <target state="translated">MTD FP WinClient Json</target>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3" />
           <note from="ObjectTarget" annotates="general" priority="5">Table 456029390</note>
