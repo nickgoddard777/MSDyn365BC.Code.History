@@ -33,6 +33,9 @@
       "path": "./SwissQRBill/Test/SwissQRBillTest"
     },
     {
+      "path": "./VATGroupManagement/Test/VATGroupManagementTest"
+    },
+    {
       "path": "./EssentialBusinessHeadlines/Test/EssentialBusinessHeadlinesTest"
     },
     {
