@@ -27,6 +27,9 @@
       "path": "./servicedeclaration/test/Service Declaration Tests"
     },
     {
+      "path": "./IntrastatFR/Test/Intrastat FR Tests"
+    },
+    {
       "path": "./system application/test/System Application Test"
     },
     {
@@ -61,6 +64,9 @@
     },
     {
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
+    },
+    {
+      "path": "./Intrastat/Test/Intrastat Core Tests"
     },
     {
       "path": "./ReportLayouts/test/Report Layouts Tests"
