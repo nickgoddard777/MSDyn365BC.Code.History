@@ -1,4 +1,12 @@
 {
+  "settings": {
+    "search.exclude": {
+      "**.xlf": true
+    },
+    "al.enableCodeAnalysis": false,
+    "al.enableCodeActions": false,
+    "allint.enabled": false
+  },
   "folders": [
     {
       "path": "./System Application/Test/System Application Test Library"
@@ -31,7 +39,10 @@
       "path": "./FieldServiceIntegration/Test/Field Service Integration Test"
     },
     {
-      "path": "./SalesLinesSuggestions/Test/Sales Lines Suggestions Tests"
+      "path": "./SalesLinesSuggestions/Test/Sales Lines Suggestions Tests/AI Tests"
+    },
+    {
+      "path": "./SalesLinesSuggestions/Test/Sales Lines Suggestions Tests/AttachmentHandlerPromptTests"
     },
     {
       "path": "./BusinessFoundation/Test/Business Foundation Test Libraries"
@@ -55,6 +66,9 @@
       "path": "./EU3PartyTradePurchase/test/EU 3-Party Trade Purchase Tests"
     },
     {
+      "path": "./SubscriptionBilling/Test/Subscription & Recurring Billing Tests"
+    },
+    {
       "path": "./QuickbooksPayrollFileImport/Test/Quickbooks Payroll File Import Tests"
     },
     {
@@ -71,6 +85,15 @@
     },
     {
       "path": "./testframework/TestRunner/Test Runner"
+    },
+    {
+      "path": "./testframework/TestRunner/Test Runner/src/DataDrivenTest"
+    },
+    {
+      "path": "./testframework/aitesttoolkit/AI Test Toolkit"
+    },
+    {
+      "path": "./testframework/aitesttoolkit/AI Test Toolkit/src/TestSuite"
     },
     {
       "path": "./testframework/performancetoolkit/Performance Toolkit Tests"
@@ -196,6 +219,9 @@
       "path": "./BaseApp/Test/Tests-SCM"
     },
     {
+      "path": "./BaseApp/Test/Tests-Service"
+    },
+    {
       "path": "./BaseApp/Test/Tests-SINGLESERVER"
     },
     {
@@ -250,6 +276,9 @@
       "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
     },
     {
+      "path": "./ExcelReports/Test/Dynamics BC Excel Reports Tests"
+    },
+    {
       "path": "./Email - SMTP API/Test Library/Email - SMTP API Test Library"
     },
     {
@@ -271,6 +300,9 @@
       "path": "./RecommendedApps/Test/Recommended Apps Tests"
     },
     {
+      "path": "./PowerBIReports/Test/PowerBI Reports Tests"
+    },
+    {
       "path": "./PaymentPractices/Test/Payment Practices Tests"
     },
     {
@@ -285,13 +317,5 @@
     {
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
     }
-  ],
-  "settings": {
-    "al.enableCodeActions": false,
-    "allint.enabled": false,
-    "search.exclude": {
-      "**.xlf": true
-    },
-    "al.enableCodeAnalysis": false
-  }
+  ]
 }
