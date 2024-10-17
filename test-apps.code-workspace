@@ -27,13 +27,13 @@
       "path": "./OIOUBL/Test/OIOUBL Tests"
     },
     {
-      "path": "./TestFramework/TestLibraries"
-    },
-    {
-      "path": "./TestFramework/TestRunner/Test Runner"
-    },
-    {
       "path": "./VATReportsDK/Test/Tax File Formats (DK) Tests"
+    },
+    {
+      "path": "./testframework/TestLibraries"
+    },
+    {
+      "path": "./testframework/TestRunner/Test Runner"
     },
     {
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
@@ -49,6 +49,9 @@
     },
     {
       "path": "./ImportDKPayroll/Test/Payroll Data Import Definitions (DK) Tests"
+    },
+    {
+      "path": "./Email - Outlook REST API/Test"
     },
     {
       "path": "./APIV2/Test/_Exclude_APIV2_ Tests"
@@ -102,6 +105,9 @@
       "path": "./BaseApp/Test/Tests-Misc"
     },
     {
+      "path": "./BaseApp/Test/Tests-Monitor Sensitive Fields"
+    },
+    {
       "path": "./BaseApp/Test/Tests-Permissions"
     },
     {
@@ -150,7 +156,13 @@
       "path": "./BaseApp/Test/Tests-Workflow"
     },
     {
+      "path": "./BaseApp/Source/Base Application/Test Framework"
+    },
+    {
       "path": "./WorldPayPaymentsStandard/Test/WorldPay Payments Standard Tests"
+    },
+    {
+      "path": "./Email - SMTP Connector/Test/Email - SMTP Connector Tests"
     },
     {
       "path": "./SalesAndInventoryForecast/Test/Sales and Inventory Forecast Tests"
@@ -160,6 +172,12 @@
     },
     {
       "path": "./LatePaymentPredictor/Test/Late Payment Prediction Tests"
+    },
+    {
+      "path": "./Email - Microsoft 365 Connector/Test/Email - Microsoft 365 Connector Tests"
+    },
+    {
+      "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
     }
   ]
 }
