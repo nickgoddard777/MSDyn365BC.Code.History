@@ -36,6 +36,9 @@
       "path": "./VATReportsDK/Test/VATReportsDKTest"
     },
     {
+      "path": "./VATGroupManagement/Test/VATGroupManagementTest"
+    },
+    {
       "path": "./EssentialBusinessHeadlines/Test/EssentialBusinessHeadlinesTest"
     },
     {
