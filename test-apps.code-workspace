@@ -30,6 +30,9 @@
       "path": "./system application/test/System Application Test/Extension Management/testArtifacts"
     },
     {
+      "path": "./SwissQRBill/Test/SwissQRBillTest"
+    },
+    {
       "path": "./EssentialBusinessHeadlines/Test/EssentialBusinessHeadlinesTest"
     },
     {
