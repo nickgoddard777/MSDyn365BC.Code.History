@@ -46,6 +46,9 @@
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
     },
     {
+      "path": "./ReportLayouts/test/Report Layouts Tests"
+    },
+    {
       "path": "./Email - Outlook REST API/Test"
     },
     {
@@ -190,9 +193,9 @@
   "settings": {
     "allint.enabled": false,
     "al.enableCodeActions": false,
+    "al.enableCodeAnalysis": false,
     "search.exclude": {
       "**.xlf": true
-    },
-    "al.enableCodeAnalysis": false
+    }
   }
 }
