@@ -1,12 +1,4 @@
 {
-  "settings": {
-    "al.enableCodeActions": false,
-    "al.enableCodeAnalysis": false,
-    "allint.enabled": false,
-    "search.exclude": {
-      "**.xlf": true
-    }
-  },
   "folders": [
     {
       "path": "./recommendedapps/test/Recommended Apps Tests"
@@ -48,6 +40,9 @@
       "path": "./testframework/TestLibraries"
     },
     {
+      "path": "./testframework/teststabilitytools"
+    },
+    {
       "path": "./testframework/TestRunner/Test Runner"
     },
     {
@@ -55,6 +50,9 @@
     },
     {
       "path": "./testframework/performancetoolkit/Performance Toolkit Tests/src/Mock Tests"
+    },
+    {
+      "path": "./DataSearch/test/Data Search Tests"
     },
     {
       "path": "./EssentialBusinessHeadlines/Test/Essential Business Headlines Test"
@@ -212,5 +210,13 @@
     {
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
     }
-  ]
+  ],
+  "settings": {
+    "search.exclude": {
+      "**.xlf": true
+    },
+    "al.enableCodeActions": false,
+    "al.enableCodeAnalysis": false,
+    "allint.enabled": false
+  }
 }
