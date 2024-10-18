@@ -1,5 +1,19 @@
 {
+  "settings": {
+    "al.enableCodeAnalysis": false,
+    "allint.enabled": false,
+    "al.enableCodeActions": false,
+    "search.exclude": {
+      "**.xlf": true
+    }
+  },
   "folders": [
+    {
+      "path": "./recommendedapps/test/Recommended Apps Tests"
+    },
+    {
+      "path": "./DataArchive/test/Data Archive Tests"
+    },
     {
       "path": "./system application/test/System Application Test"
     },
@@ -165,13 +179,5 @@
     {
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
     }
-  ],
-  "settings": {
-    "al.enableCodeAnalysis": false,
-    "allint.enabled": false,
-    "al.enableCodeActions": false,
-    "search.exclude": {
-      "**.xlf": true
-    }
-  }
+  ]
 }
