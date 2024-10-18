@@ -1,12 +1,4 @@
 {
-  "settings": {
-    "allint.enabled": false,
-    "search.exclude": {
-      "**.xlf": true
-    },
-    "al.enableCodeActions": false,
-    "al.enableCodeAnalysis": false
-  },
   "folders": [
     {
       "path": "./AuditFileExport/Test/Audit File Export Tests"
@@ -76,6 +68,9 @@
     },
     {
       "path": "./Email - Outlook REST API/Test"
+    },
+    {
+      "path": "./paymentpractices/test/Payment Practices Tests"
     },
     {
       "path": "./shopify/test/Shopify Connector Test"
@@ -227,5 +222,13 @@
     {
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
     }
-  ]
+  ],
+  "settings": {
+    "al.enableCodeAnalysis": false,
+    "allint.enabled": false,
+    "search.exclude": {
+      "**.xlf": true
+    },
+    "al.enableCodeActions": false
+  }
 }
