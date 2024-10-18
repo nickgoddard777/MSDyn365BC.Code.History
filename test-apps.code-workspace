@@ -1,4 +1,12 @@
 {
+  "settings": {
+    "search.exclude": {
+      "**.xlf": true
+    },
+    "al.enableCodeActions": false,
+    "allint.enabled": false,
+    "al.enableCodeAnalysis": false
+  },
   "folders": [
     {
       "path": "./AuditFileExport/Test/Audit File Export Tests"
@@ -172,6 +180,9 @@
       "path": "./BaseApp/Test/Tests-Workflow"
     },
     {
+      "path": "./BaseApp/Source/Base Application/System/DevTools/CALTest"
+    },
+    {
       "path": "./onprem permissions/test/OnPrem Permissions Tests"
     },
     {
@@ -219,13 +230,5 @@
     {
       "path": "./Email - Current User Connector/Test/Email - Current User Connector Tests"
     }
-  ],
-  "settings": {
-    "al.enableCodeAnalysis": false,
-    "allint.enabled": false,
-    "search.exclude": {
-      "**.xlf": true
-    },
-    "al.enableCodeActions": false
-  }
+  ]
 }
